@@ -47,10 +47,6 @@ bash setup.sh
 	├── ...
 ```
 
-### project-dragon-2019-e3f6ead0cfb0 .json
-
-- Service account credentials for running the docex application
-
 ## config.py
 
 - Python script to import the constant variables
